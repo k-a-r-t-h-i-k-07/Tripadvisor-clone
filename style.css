@@ -382,7 +382,7 @@ body {
     bottom: 100px;
     width: 50PX;
     height: 50px;
-    right: 315px;
+    right: 400px;
 }
 
 .section-s7 {
@@ -444,7 +444,7 @@ body {
     bottom: 280px;
     width: 50PX;
     height: 50px;
-    right: 300px;
+    right: 385px;
 }
 
 
@@ -481,6 +481,11 @@ body {
 .section-s8__footer__s4 ol {
     list-style-type: none;
 }
+
+.section-s8__footer__s4 {
+    padding-right: 100px;
+}
+
 
 
 
